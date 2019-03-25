@@ -1,9 +1,6 @@
 # Natours
 Implemented as part of Udemy course to learn advanced features in CSS.
 
-##Natours
-Single page application for learning advanced concepts in CSS. 
-
 ## Nodejs installation and SASS setup
 1. Install nodejs from [here](https://nodejs.org/en/).
 
